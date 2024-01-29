@@ -1,0 +1,29 @@
+.cont-text {
+  border: 1px solid purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-contain {
+  border: 1px solid silver;
+}
+
+.product-img {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.justify-content-between {
+  justify-content: space-evenly;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
